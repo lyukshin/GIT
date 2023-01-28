@@ -8,7 +8,7 @@
 * git log – вывод на экран истории всех коммитов с их хеш-кодами
 * git checkout – переход от одного коммита к другому
 * git checkout master – вернуться к актуальному состоянию и продолжить работу
-* git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+* git diff – увидеть разницу между текущим файлом и закоммgitиченным файлом
 
 # 
 
@@ -16,7 +16,7 @@
 
 Дооформить инструкцию по работе с Git, используя возможности Markdown (цитаты, картинки, ссылки и т.п.) 
 
-- [Документация GIT]()
+- [Документация GIT](https://git-scm.com/book/ru/v2/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-C%3A-%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-Git-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B)
 - [Документация Microsoft](https://gist.github.com/Jekins/2bf2d0638163f1294637#Images)
 - [Синтаксис MarkDown](https://www.markdownguide.org/basic-syntax/)
 
