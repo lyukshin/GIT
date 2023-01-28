@@ -17,6 +17,7 @@
 Дооформить инструкцию по работе с Git, используя возможности Markdown (цитаты, картинки, ссылки и т.п.) 
 
 - [Документация Microsoft](https://gist.github.com/Jekins/2bf2d0638163f1294637#Images)
+- [Синтаксис MarkDown](https://www.markdownguide.org/basic-syntax/)
 
 
 #
